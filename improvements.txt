@@ -1,0 +1,5 @@
+*add heatmap averaging after thresholding
+*try NOT restricting the X dimension in window search for more robust pipeline
+*modify to detect white car sooner
+*polish writeup
+*combine with lane finding pipeline
